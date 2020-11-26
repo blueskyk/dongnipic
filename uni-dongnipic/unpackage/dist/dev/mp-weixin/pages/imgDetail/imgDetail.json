@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "图片详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "swiper-action": "/pages/components/swiperAction"
+  }
+}

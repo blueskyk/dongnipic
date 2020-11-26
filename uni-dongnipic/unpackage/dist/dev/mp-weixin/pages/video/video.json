@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "精美视频",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control",
+    "video-main": "/pages/components/Video/video-main",
+    "video-category": "/pages/components/Video/video-category"
+  }
+}

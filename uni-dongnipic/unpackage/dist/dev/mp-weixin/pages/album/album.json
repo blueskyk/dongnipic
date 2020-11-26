@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "专辑详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "go-detail": "/pages/components/goDetail"
+  }
+}
